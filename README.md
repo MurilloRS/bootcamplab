@@ -1,2 +1,2 @@
 # wscicd
-Workshop CiCd
+Workshop CiCd - Jenkins
